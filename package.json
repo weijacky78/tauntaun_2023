@@ -23,5 +23,9 @@
 		"style-loader": "^3.3.1",
 		"webpack": "^5.75.0",
 		"webpack-cli": "^5.0.1"
+	},
+	"dependencies": {
+		"@tomtom-international/web-sdk-maps": "^6.23.0",
+		"@tomtom-international/web-sdk-services": "^6.23.0"
 	}
 }
